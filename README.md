@@ -5,7 +5,7 @@ ML model to predict used car prices using Random Forest
 This project builds a Machine Learning model to predict the resale price of used cars based on features like mileage, fuel type, transmission, and more.
 
 ## Dataset
-- Source: [Kaggle - CarDekho Vehicle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
+
 - Features used:
   - Kms Driven
   - Fuel Type (Petrol/Diesel/CNG)
